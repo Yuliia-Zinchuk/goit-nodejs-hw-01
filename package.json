@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Yuliia-Zinchuk/goit-nodejs-hw-01#readme",
   "dependencies": {
     "bson-objectid": "^2.0.4",
+    "commander": "^9.4.1",
     "nanoid": "^3.3.4",
     "yargs": "^17.6.2"
   },
